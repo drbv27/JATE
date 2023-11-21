@@ -24,5 +24,5 @@ The URL of the GitHub repository is [https://github.com/drbv27/JATE](https://git
 This application has been deployed to Vercel and the URL of the deployed application is:
 [https://jate-1akhxpa3d-drbv27.vercel.app/](https://jate-1akhxpa3d-drbv27.vercel.app/)
 
-JATE: ![image](https://github.com/drbv27/JATE)
+JATE: ![image](https://github.com/drbv27/JATE/blob/main/client/src/images/jate.png)
 
